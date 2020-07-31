@@ -1,4 +1,3 @@
-
 <?php
 /**
  * Plugin Name: wp_mail Form Submit
