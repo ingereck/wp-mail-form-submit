@@ -13,4 +13,3 @@ In addition to installing and activating this plugin, the following code needs t
 //define( 'SMTP_PORT',   '587' ); // SMTP port number - likely to be 25, 465 or 587$<br>
 //define( 'SMTP_SECURE', 'tls' ); // Encryption system to use - ssl or tls<br>
 //define( 'SMTP_AUTH',    true ); // Use SMTP authentication (true|false)<br>
-```
